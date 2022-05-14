@@ -1,12 +1,12 @@
 # Button Effect
 
-A simple web-page design for buttons with 3D effects.
+A simple web-page to practice design for buttons with 3D effects.
 
 ## Author
 Joseph Ndegwa
 
 ## Setup and installation
-Navigate to `https://josephndegwa.github.io/3d-button/` and serve on the web.
+Navigate to this [link](https://josephndegwa.github.io/3d-button/) and serve on the web.
 
 ## Technologies
 * HTML
