@@ -6,7 +6,7 @@ A simple web-page design for buttons with 3D effects.
 Joseph Ndegwa
 
 ## Setup and installation
-Navigate to `` and serve on the web.
+Navigate to `https://josephndegwa.github.io/3d-button/` and serve on the web.
 
 ## Technologies
 * HTML
